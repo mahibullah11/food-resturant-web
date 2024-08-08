@@ -1,3 +1,4 @@
+import ExploreFoodList from "./components/ExploreFoodList"
 import Header from "./components/Header"
 import HeroComponent from "./components/HeroComponent"
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
     <Header/>
     <HeroComponent/>
+    <ExploreFoodList/>
     </>
 
   )
