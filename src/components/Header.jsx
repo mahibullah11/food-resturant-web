@@ -2,7 +2,7 @@ import React from 'react'
 import logo from "../assets/logo.jpg"
 import "./Header.css"
 
-//HEDER
+
 
 function Header() {
   return (
